@@ -1,0 +1,81 @@
+    * {
+        background: #000;
+    }
+
+
+
+    .body {
+        width: 1440px;
+        height: 678px;
+        padding: 0px, 15px, 0px, 15px;
+    }
+
+    .txt {
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    h2 {
+        color: #FFF;
+        font-family: Montserrat;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 57px;
+    }
+
+    p {
+        color: #FFF;
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+
+    .cards {
+        justify-content: center;
+        display: flex;
+
+    }
+
+    .card_1 {
+        background: #ffffff;
+        color: #737373;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 20px;
+        margin-left: 60px;
+        margin-right: 50px;
+        padding: 30px 60px 30px 60px;
+    }
+
+    .card_2 {
+        background: #ffffff;
+        color: #737373;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 20px;
+        margin-right: 60px;
+        padding: 30px 60px 30px 60px;
+    }
+
+    h3 {
+        background-color: #ffffff;
+    }
+
+    h6 {
+        background-color: #ffffff;
+    }
+
+    .stars {
+        position: relative;
+        width: 22px;
+        height: 22px;
+        flex-shrink: 0;
+    }
